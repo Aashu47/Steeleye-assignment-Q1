@@ -12,7 +12,7 @@ import List from "../component/list/List";
 
 // Styles
 import styles from "./Dashboard.module.css";
-import Card from "../component/card/Card";
+import Card from "../component/card/Card"
 
 //Button
 import {Button } from "../stories/Button"
